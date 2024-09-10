@@ -1,5 +1,5 @@
 ### Welcome, I'm Vinci 👋
-### Front-End Developer 🖥️
+### Back-End Developer 🖥️
 ### Passionate about studying technology 📚
 ### Available for work 💼
 
