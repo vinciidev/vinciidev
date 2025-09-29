@@ -1,6 +1,9 @@
 ### Welcome, I'm Vinci 👋
-### Python Developer | Data Analysis & Visualization 🖥️
-### Passionate about studying technology 📚
+### Automation Manager | Data Specialist 🖥️
+
+
+### 🎓 **Education:** Bachelor's Degree in Information Systems & Technologist Degree in Data Science
+
 ### Available for work 💼
 
 ### Here are some ways to contact me:
