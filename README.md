@@ -3,8 +3,9 @@
 
 
 ### 🎓 **Education:** Bachelor's Degree in Information Systems & Technologist Degree in Data Science
+### 🤖 **Core Skills:** Process Automation, n8n, Python, JavaScript, Data Analysis & Visualization
 
-### Available for work 💼
+### 💼 Open to new opportunities and collaborations.
 
 ### Here are some ways to contact me:
 
