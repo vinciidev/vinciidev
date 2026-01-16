@@ -12,9 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinciidev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinciidev)
 
-
-![Vinci's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinciidev&show_icons=true&theme=radical)
-
 ### These are the technologies I use most:
 
 <div style="display: inline_block">
