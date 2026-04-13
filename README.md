@@ -1,4 +1,4 @@
-### Welcome, I'm Vinci 👋
+### Welcome, I'm Vinicius Araujo 👋
 ### Automation Manager | Data Specialist 🖥️
 
 
@@ -9,7 +9,7 @@
 
 ### Here are some ways to contact me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinciidev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viniciusaraujo.ia)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinciidev)
 
 ### These are the technologies I use most:
